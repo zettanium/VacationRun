@@ -1,0 +1,29 @@
+# OBJ Material Export by Luxion KeyShot
+
+newmtl Steel #1
+Kd 0 0 0
+Ks 0.619608 0.592157 0.572549
+
+newmtl Paint - gloss blue
+Kd 0.00399786 0.56376 0.7037
+Ks 0 0 0
+
+newmtl Paint - gloss blue
+Kd 0.00399786 0.56376 0.7037
+Ks 0 0 0
+
+newmtl Glass refractive black #1
+Kd 0 0 0
+Ks 0.181994 0.177813 0.185183
+
+newmtl Glass refractive black #1
+Kd 0 0 0
+Ks 0.181994 0.177813 0.185183
+
+newmtl Paint - gloss blue
+Kd 0.00399786 0.56376 0.7037
+Ks 0 0 0
+
+newmtl Steel #1
+Kd 0 0 0
+Ks 0.619608 0.592157 0.572549

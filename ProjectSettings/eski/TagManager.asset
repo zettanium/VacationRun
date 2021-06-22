@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Jump_Obj
+  - SpeedUP
+  - Gems
+  - Road
+  - Gameover
+  - Enemy
+  - X
+  - yuruyen_band
+  - tr_cikis
+  - tr_giris
+  - Drop
+  - cukur
+  - Ground
+  - World
+  - Ketchup
+  - shoes1
+  - Wall
+  - Effects
+  - sapka1
+  - gerekli_esya
+  - FxTemporaire
+  - engel_top
+  - gereksiz_esya
+  - yuruyen_band_duz
+  - tr_giris_duz
+  - bavul_bosalt
+  - suitcase
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
